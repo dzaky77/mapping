@@ -1,0 +1,30 @@
+[
+    {
+        "ch_name": "Channel_Anak",
+        "ch_link": "https://live.mydomain.com:1000/live/1/4028c6856df6711d016e111c808d00a5/index.m3u8"
+    },
+    {
+        "ch_name": "Channel_Edukasi",
+        "ch_link": "https://live.mydomain.com:1000/live/3/4028c6857e04fca5017efbaa3ce05d3e/index.m3u8"
+    },
+    {
+        "ch_name": "Sejarah",
+        "ch_link": "https://live.mydomain.com:1000/live/3/4028c685730a424301731849249d1577/index.m3u8"
+    },
+    {
+        "ch_name": "My_Adv",
+        "ch_link": "https://live.mydomain.com:1000/live/4/4028c6856f08326c016f0dbdf70005f5/index.m3u8"
+    },
+    {
+        "ch_name": "NTV",
+        "ch_link": "https://live.mydomain.com:1000/live/4/4028c6856c3db2cc016cd6e9c5992395/index.m3u8"
+    },
+    {
+        "ch_name": "Basari",
+        "ch_link": "https://live.mydomain.com:1000/live/4/4028c6856fd0d66d01703417ea3a0901/index.m3u8"
+    },
+    {
+        "ch_name": "Musik",
+        "ch_link": "https://live.mydomain.com:1000/live/4/4028c6857fe540a1018060a4379740b7/index.m3u8"
+    }
+]
