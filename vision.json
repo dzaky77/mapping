@@ -1,30 +1,410 @@
 [
-    {
-        "ch_name": "Channel_Anak",
-        "ch_link": "https://live.mydomain.com:1000/live/1/4028c6856df6711d016e111c808d00a5/index.m3u8"
-    },
-    {
-        "ch_name": "Channel_Edukasi",
-        "ch_link": "https://live.mydomain.com:1000/live/3/4028c6857e04fca5017efbaa3ce05d3e/index.m3u8"
-    },
-    {
-        "ch_name": "Sejarah",
-        "ch_link": "https://live.mydomain.com:1000/live/3/4028c685730a424301731849249d1577/index.m3u8"
-    },
-    {
-        "ch_name": "My_Adv",
-        "ch_link": "https://live.mydomain.com:1000/live/4/4028c6856f08326c016f0dbdf70005f5/index.m3u8"
-    },
-    {
-        "ch_name": "NTV",
-        "ch_link": "https://live.mydomain.com:1000/live/4/4028c6856c3db2cc016cd6e9c5992395/index.m3u8"
-    },
-    {
-        "ch_name": "Basari",
-        "ch_link": "https://live.mydomain.com:1000/live/4/4028c6856fd0d66d01703417ea3a0901/index.m3u8"
-    },
-    {
-        "ch_name": "Musik",
-        "ch_link": "https://live.mydomain.com:1000/live/4/4028c6857fe540a1018060a4379740b7/index.m3u8"
-    }
+  {
+    "ch_name": "AlJazeeraInternational",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd"
+  },
+  {
+    "ch_name": "AnhuiTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd"
+  },
+  {
+    "ch_name": "Animax",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd"
+  },
+  {
+    "ch_name": "ANTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd"
+  },
+  {
+    "ch_name": "Arirang",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd"
+  },
+  {
+    "ch_name": "AXN",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd"
+  },
+  {
+    "ch_name": "BaliTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd"
+  },
+  {
+    "ch_name": "BBCEarth",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd"
+  },
+  {
+    "ch_name": "Bein1",
+    "ch_link": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd"
+  },
+  {
+    "ch_name": "Bein2",
+    "ch_link": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd"
+  },
+  {
+    "ch_name": "Bein3",
+    "ch_link": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd"
+  },
+  {
+    "ch_name": "Bein4",
+    "ch_link": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd"
+  },
+  {
+    "ch_name": "Bein5",
+    "ch_link": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd"
+  },
+  {
+    "ch_name": "Bloomberg",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd"
+  },
+  {
+    "ch_name": "BeritaSatu",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd"
+  },
+  {
+    "ch_name": "Cbeebies",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd"
+  },
+  {
+    "ch_name": "MNCInfotainment",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd"
+  },
+  {
+    "ch_name": "CelestialClassic",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd"
+  },
+  {
+    "ch_name": "CelestialMovie",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd"
+  },
+  {
+    "ch_name": "CGTNdoc",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd"
+  },
+  {
+    "ch_name": "CGTN",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd"
+  },
+  {
+    "ch_name": "Cinemachi",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd"
+  },
+  {
+    "ch_name": "CinemachiAction",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd"
+  },
+  {
+    "ch_name": "CinemachiKids",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd"
+  },
+  {
+    "ch_name": "CinemachiMax",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd"
+  },
+  {
+    "ch_name": "CinemachiXtra",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd"
+  },
+  {
+    "ch_name": "CNBC",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd"
+  },
+  {
+    "ch_name": "CrimeInvestigation",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd"
+  },
+  {
+    "ch_name": "DaaiTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd"
+  },
+  {
+    "ch_name": "ShanghaiDragonTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd"
+  },
+  {
+    "ch_name": "Dreamwork",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd"
+  },
+  {
+    "ch_name": "DwEnglish",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd"
+  },
+  {
+    "ch_name": "MNCEntertainment",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd"
+  },
+  {
+    "ch_name": "EuroNews",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd"
+  },
+  {
+    "ch_name": "EWTN",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd"
+  },
+  {
+    "ch_name": "FightSports",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd"
+  },
+  {
+    "ch_name": "FMN",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd"
+  },
+  {
+    "ch_name": "FoxNews",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd"
+  },
+  {
+    "ch_name": "France24",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd"
+  },
+  {
+    "ch_name": "Galaxy",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd"
+  },
+  {
+    "ch_name": "GalaxyPremium",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd"
+  },
+  {
+    "ch_name": "Globaltrekker",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd"
+  },
+  {
+    "ch_name": "GTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd"
+  },
+  {
+    "ch_name": "Hits",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd"
+  },
+  {
+    "ch_name": "HitsMovies",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd"
+  },
+  {
+    "ch_name": "HunanTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd"
+  },
+  {
+    "ch_name": "IDX",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd"
+  },
+  {
+    "ch_name": "IndonesiaMovieChannels",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd"
+  },
+  {
+    "ch_name": "iNewsTV",
+    "ch_link": "https://allcutv.rctiplus.id/inews2023.m3u8"
+  },
+  {
+    "ch_name": "JakTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd"
+  },
+  {
+    "ch_name": "JiangsuTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd"
+  },
+  {
+    "ch_name": "JTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd"
+  },
+  {
+    "ch_name": "KidsChannel",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd"
+  },
+  {
+    "ch_name": "KIX",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd"
+  },
+  {
+    "ch_name": "KompasTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd"
+  },
+  {
+    "ch_name": "Life",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd"
+  },
+  {
+    "ch_name": "Lifetime",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd"
+  },
+  {
+    "ch_name": "MetroTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd"
+  },
+  {
+    "ch_name": "MNCTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd"
+  },
+  {
+    "ch_name": "BabyTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd"
+  },
+  {
+    "ch_name": "MTV90",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd"
+  },
+  {
+    "ch_name": "MTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd"
+  },
+  {
+    "ch_name": "MusicChannel",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd"
+  },
+  {
+    "ch_name": "MNCMuslim",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd"
+  },
+  {
+    "ch_name": "MyCinema",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd"
+  },
+  {
+    "ch_name": "MyCinemaAsia",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd"
+  },
+  {
+    "ch_name": "MyFamily",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd"
+  },
+  {
+    "ch_name": "MyKids",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd"
+  },
+  {
+    "ch_name": "NetTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd"
+  },
+  {
+    "ch_name": "NHKWorldPremium",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd"
+  },
+  {
+    "ch_name": "NHKWorldTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd"
+  },
+  {
+    "ch_name": "NickJr",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd"
+  },
+  {
+    "ch_name": "Nickelodeon",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd"
+  },
+  {
+    "ch_name": "LifeStyleFashion",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd"
+  },
+  {
+    "ch_name": "SetOne",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd"
+  },
+  {
+    "ch_name": "AlQuranAlKareem",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd"
+  },
+  {
+    "ch_name": "RCTI",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd"
+  },
+  {
+    "ch_name": "Reformed21",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd"
+  },
+  {
+    "ch_name": "Rockaction",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd"
+  },
+  {
+    "ch_name": "Rockentertainment",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd"
+  },
+  {
+    "ch_name": "RTEnglish",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd"
+  },
+  {
+    "ch_name": "RTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd"
+  },
+  {
+    "ch_name": "SEAChannel",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd"
+  },
+  {
+    "ch_name": "MNCnews",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd"
+  },
+  {
+    "ch_name": "SoccerChannel",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd"
+  },
+  {
+    "ch_name": "MNCSports",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd"
+  },
+  {
+    "ch_name": "MNCSports2",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd"
+  },
+  {
+    "ch_name": "MNCSports4",
+    "ch_link": "https://global-cdn1.visionplus.id/out/v1/1bdda9bb5aa7415f821ca0eb8b0e8f89/index.mpd"
+  },
+  {
+    "ch_name": "SPOTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd"
+  },
+  {
+    "ch_name": "SPOTV2",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd"
+  },
+  {
+    "ch_name": "TawafTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd"
+  },
+  {
+    "ch_name": "Thrill",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd"
+  },
+  {
+    "ch_name": "Trans7",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd"
+  },
+  {
+    "ch_name": "TransTV",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd"
+  },
+  {
+    "ch_name": "TRTWorld",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd"
+  },
+  {
+    "ch_name": "TV9",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd"
+  },
+  {
+    "ch_name": "tvN",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd"
+  },
+  {
+    "ch_name": "tvNMovies",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd"
+  },
+  {
+    "ch_name": "TVOne",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd"
+  },
+  {
+    "ch_name": "TVRI",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd"
+  },
+  {
+    "ch_name": "VisionPrime",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd"
+  },
+  {
+    "ch_name": "ZeeBIOSKOP",
+    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd"
+  }
 ]
