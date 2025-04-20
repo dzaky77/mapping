@@ -337,27 +337,35 @@
   },
   {
     "ch_name": "SoccerChannel",
-    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd"
+    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd"
   },
   {
     "ch_name": "MNCSports",
-    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd"
+    "ch_link": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd"
   },
   {
     "ch_name": "MNCSports2",
-    "ch_link": "https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8"
+    "ch_link": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd"
+  },
+  {
+    "ch_name": "MNCSports2Event",
+    "ch_link": "http://terabit.web.id/media.mpd?id=1002&type=dash"
+  },
+  {
+    "ch_name": "MNCSports3",
+    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd"
   },
   {
     "ch_name": "MNCSports4",
-    "ch_link": "https://global-cdn1.visionplus.id/out/v1/1bdda9bb5aa7415f821ca0eb8b0e8f89/index.mpd"
+    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd"
   },
   {
     "ch_name": "SPOTV",
-    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd"
+    "ch_link": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd"
   },
   {
     "ch_name": "SPOTV2",
-    "ch_link": "https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd"
+    "ch_link": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd"
   },
   {
     "ch_name": "TawafTV",
