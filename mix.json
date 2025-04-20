@@ -1,0 +1,74 @@
+[
+  {
+    "ch_name": "ANTV",
+    "ch_link": "http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8"
+  },
+  {
+    "ch_name": "BNChannel",
+    "ch_link": "http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8"
+  },
+  {
+    "ch_name": "BTV",
+    "ch_link": "https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8"
+  },
+  {
+    "ch_name": "CNBC",
+    "ch_link": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8"
+  },
+  {
+    "ch_name": "CNN",
+    "ch_link": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8"
+  },
+  {
+    "ch_name": "GarudaTV",
+    "ch_link": "https://hgmtv.com:19360/garudatvlivestreaming/576p.m3u8"
+  },
+  {
+    "ch_name": "IDTV",
+    "ch_link": "https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8"
+  },
+  {
+    "ch_name": "Indonesiana",
+    "ch_link": "https://tvstreamcast.com/indonesiana.m3u8"
+  },
+  {
+    "ch_name": "KompasTV",
+    "ch_link": "http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8"
+  },
+  {
+    "ch_name": "MagnaChannel",
+    "ch_link": "http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8"
+  },
+  {
+    "ch_name": "MetroTV",
+    "ch_link": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+  },
+  {
+    "ch_name": "MetroGlobal",
+    "ch_link": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
+  },
+  {
+    "ch_name": "NusantaraTV",
+    "ch_link": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
+  },
+  {
+    "ch_name": "NET",
+    "ch_link": "http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8"
+  },
+  {
+    "ch_name": "RTV",
+    "ch_link": "http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8"
+  },
+  {
+    "ch_name": "SCTV",
+    "ch_link": "http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8"
+  },
+  {
+    "ch_name": "TVRI",
+    "ch_link": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
+  },
+  {
+    "ch_name": "TVOne",
+    "ch_link": "http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8"
+  }
+]
