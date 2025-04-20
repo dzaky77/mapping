@@ -1,0 +1,570 @@
+[
+  {
+    "ch_name": "abcaustralia",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd"
+  },
+  {
+    "ch_name": "afc",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/afc/manifest.mpd"
+  },
+  {
+    "ch_name": "aljazeera",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/aljazeera/manifest.mpd"
+  },
+  {
+    "ch_name": "allplay",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd"
+  },
+  {
+    "ch_name": "alquran",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd"
+  },
+  {
+    "ch_name": "alquran2",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/alquran/manifest.mpd"
+  },
+  {
+    "ch_name": "animalplanet",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd"
+  },
+  {
+    "ch_name": "animax",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/animax/manifest.mpd"
+  },
+  {
+    "ch_name": "aniplus",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd"
+  },
+  {
+    "ch_name": "antara",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd"
+  },
+  {
+    "ch_name": "antv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd"
+  },
+  {
+    "ch_name": "antv2",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd"
+  },
+  {
+    "ch_name": "arirang",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/ARIRANG/manifest.mpd"
+  },
+  {
+    "ch_name": "atv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd"
+  },
+  {
+    "ch_name": "axn",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/axn/manifest.mpd"
+  },
+  {
+    "ch_name": "balitv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/balitv/manifest.mpd"
+  },
+  {
+    "ch_name": "bein1",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd"
+  },
+  {
+    "ch_name": "bein3",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd"
+  },
+  {
+    "ch_name": "bioskopindonesia",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd"
+  },
+  {
+    "ch_name": "bioskopindonesia2",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/bioskopindonesia/manifest.mpd"
+  },
+  {
+    "ch_name": "bloomberg",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd"
+  },
+  {
+    "ch_name": "beritasatu",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd"
+  },
+  {
+    "ch_name": "cartoonnetwork",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd"
+  },
+  {
+    "ch_name": "cartoonnetwork2",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/cartoonnetwork/manifest.mpd"
+  },
+  {
+    "ch_name": "boomerang",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd"
+  },
+  {
+    "ch_name": "cctv4",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/CCTV_4/manifest.mpd"
+  },
+  {
+    "ch_name": "celestialmovie",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/celestialmovie/manifest.mpd"
+  },
+  {
+    "ch_name": "celestialmovie2",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/celestialmovie/manifest.mpd"
+  },
+  {
+    "ch_name": "cgtndocumentary",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/manifest.mpd"
+  },
+  {
+    "ch_name": "cinemaworld",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd"
+  },
+  {
+    "ch_name": "cinemaworld2",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/cinemaworld/manifest.mpd"
+  },
+  {
+    "ch_name": "cna",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/CHANNEL_NEWS_ASIA/manifest.mpd"
+  },
+  {
+    "ch_name": "chinesedrama",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd"
+  },
+  {
+    "ch_name": "citradrama",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd"
+  },
+  {
+    "ch_name": "citradangdut",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd"
+  },
+  {
+    "ch_name": "cnbcindonesia",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/cnbcindonesia_dash/manifest.mpd"
+  },
+  {
+    "ch_name": "cnbcindonesia2",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/cnbcindonesia/manifest.mpd"
+  },
+  {
+    "ch_name": "cnbcasia",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/cnbcasia/manifest.mpd"
+  },
+  {
+    "ch_name": "cnnindonesia",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/cnnindonesia/manifest.mpd"
+  },
+  {
+    "ch_name": "cnninternational",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd"
+  },
+  {
+    "ch_name": "crimeinvestigation",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd"
+  },
+  {
+    "ch_name": "curiosity",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd"
+  },
+  {
+    "ch_name": "daaitv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd"
+  },
+  {
+    "ch_name": "davinci",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd"
+  },
+  {
+    "ch_name": "discovery",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd"
+  },
+  {
+    "ch_name": "discoasia",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd"
+  },
+  {
+    "ch_name": "dunialain",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd"
+  },
+  {
+    "ch_name": "duniaanak",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak_dash/manifest.mpd"
+  },
+  {
+    "ch_name": "dreamworks",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd"
+  },
+  {
+    "ch_name": "dwtv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/DWTV/manifest.mpd"
+  },
+  {
+    "ch_name": "eatgo",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd"
+  },
+  {
+    "ch_name": "euronews",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd"
+  },
+  {
+    "ch_name": "fashiontv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/FASHION_TV/manifest.mpd"
+  },
+  {
+    "ch_name": "flik",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd"
+  },
+  {
+    "ch_name": "fightsport",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd"
+  },
+  {
+    "ch_name": "france24",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd"
+  },
+  {
+    "ch_name": "indikids",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd"
+  },
+  {
+    "ch_name": "galaxypremium",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd"
+  },
+  {
+    "ch_name": "galaxy",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd"
+  },
+  {
+    "ch_name": "hgtv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/hgtv/manifest.mpd"
+  },
+  {
+    "ch_name": "history",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd"
+  },
+  {
+    "ch_name": "hits",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/hits/manifest.mpd"
+  },
+  {
+    "ch_name": "hitsmovie",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/hitsmovie/manifest.mpd"
+  },
+  {
+    "ch_name": "hitsnow",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd"
+  },
+  {
+    "ch_name": "horee",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd"
+  },
+  {
+    "ch_name": "horizonsport",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd"
+  },
+  {
+    "ch_name": "idx",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/idx/manifest.mpd"
+  },
+  {
+    "ch_name": "idtv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd"
+  },
+  {
+    "ch_name": "ikonser",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/ikonser/manifest.mpd"
+  },
+  {
+    "ch_name": "imc",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd"
+  },
+  {
+    "ch_name": "indonesiana",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/indonesiana/manifest.mpd"
+  },
+  {
+    "ch_name": "indosiar",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd"
+  },
+  {
+    "ch_name": "insert",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/insert/manifest.mpd"
+  },
+  {
+    "ch_name": "jaktv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/JAK_TV/manifest.mpd"
+  },
+  {
+    "ch_name": "jawapos",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/jawapos/manifest.mpd"
+  },
+  {
+    "ch_name": "jtv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd"
+  },
+  {
+    "ch_name": "kbsworld",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/kbsworld/manifest.mpd"
+  },
+  {
+    "ch_name": "kix",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd"
+  },
+  {
+    "ch_name": "kplus",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd"
+  },
+  {
+    "ch_name": "kompastv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/kompastv/manifest.mpd"
+  },
+  {
+    "ch_name": "kungfutv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd"
+  },
+  {
+    "ch_name": "lifetime",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd"
+  },
+  {
+    "ch_name": "lingua",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd"
+  },
+  {
+    "ch_name": "lovenature",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd"
+  },
+  {
+    "ch_name": "maxstream",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd"
+  },
+  {
+    "ch_name": "mentaritv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd"
+  },
+  {
+    "ch_name": "metrotv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd"
+  },
+  {
+    "ch_name": "metrotv2",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd"
+  },
+  {
+    "ch_name": "ochannel",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd"
+  },
+  {
+    "ch_name": "moonbug",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/moonbug/manifest.mpd"
+  },
+  {
+    "ch_name": "mqtv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/MQTV_HD/manifest.mpd"
+  },
+  {
+    "ch_name": "mtatv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd"
+  },
+  {
+    "ch_name": "mtvlive",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/MTV_LIVE/manifest.mpd"
+  },
+  {
+    "ch_name": "musikindo",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd"
+  },
+  {
+    "ch_name": "muhammadiyahtv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/muhammadiyahtv/manifest.mpd"
+  },
+  {
+    "ch_name": "muitv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd"
+  },
+  {
+    "ch_name": "muitv2",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/muitv/manifest.mpd"
+  },
+  {
+    "ch_name": "mycinema",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd"
+  },
+  {
+    "ch_name": "mycinemaasia",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd"
+  },
+  {
+    "ch_name": "myfamily",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/myfamily/manifest.mpd"
+  },
+  {
+    "ch_name": "mykids",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/mykids/manifest.mpd"
+  },
+  {
+    "ch_name": "nba",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd"
+  },
+  {
+    "ch_name": "net",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd"
+  },
+  {
+    "ch_name": "nhkworld",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd"
+  },
+  {
+    "ch_name": "nickjr",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd"
+  },
+  {
+    "ch_name": "nickelodeon",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/nickelodeon/manifest.mpd"
+  },
+  {
+    "ch_name": "nusantaratv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/nusantaratv/manifest.mpd"
+  },
+  {
+    "ch_name": "sone",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/sone/manifest.mpd"
+  },
+  {
+    "ch_name": "sone2",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/sone/manifest.mpd"
+  },
+  {
+    "ch_name": "paramount",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/paramount/manifest.mpd"
+  },
+  {
+    "ch_name": "pandatv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd"
+  },
+  {
+    "ch_name": "pramborstv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd"
+  },
+  {
+    "ch_name": "rockaction",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd"
+  },
+  {
+    "ch_name": "rockentertanment",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd"
+  },
+  {
+    "ch_name": "rodjatv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/rodjatv/manifest.mpd"
+  },
+  {
+    "ch_name": "rri",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/RRI_NET_HD/manifest.mpd"
+  },
+  {
+    "ch_name": "rtv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd"
+  },
+  {
+    "ch_name": "rtv2",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd"
+  },
+  {
+    "ch_name": "sctv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd"
+  },
+  {
+    "ch_name": "seatoday",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd"
+  },
+  {
+    "ch_name": "seru",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd"
+  },
+  {
+    "ch_name": "shenzen",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd"
+  },
+  {
+    "ch_name": "spotv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/bein1/manifest.mpd"
+  },
+  {
+    "ch_name": "spotv2",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/107/bein2/manifest.mpd"
+  },
+  {
+    "ch_name": "studiouniversal",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd"
+  },
+  {
+    "ch_name": "tawaftv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd"
+  },
+  {
+    "ch_name": "techstorm",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd"
+  },
+  {
+    "ch_name": "thrill",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/thrill/manifest.mpd"
+  },
+  {
+    "ch_name": "tlc",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/tlc/manifest.mpd"
+  },
+  {
+    "ch_name": "trans7",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd"
+  },
+  {
+    "ch_name": "transtv",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd"
+  },
+  {
+    "ch_name": "tv5monde",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/tv5monde/manifest.mpd"
+  },
+  {
+    "ch_name": "tv9",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/tv9/manifest.mpd"
+  },
+  {
+    "ch_name": "tv92",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/tv9/manifest.mpd"
+  },
+  {
+    "ch_name": "tvn",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd"
+  },
+  {
+    "ch_name": "tvnmovies",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd"
+  },
+  {
+    "ch_name": "tvone",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd"
+  },
+  {
+    "ch_name": "tvri",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/TVRI/manifest.mpd"
+  },
+  {
+    "ch_name": "uchannel",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/uchannel/manifest.mpd"
+  },
+  {
+    "ch_name": "warner",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd"
+  },
+  {
+    "ch_name": "zbioskop",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/zbioskop/manifest.mpd"
+  },
+  {
+    "ch_name": "zhejiang",
+    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/zhejiang/manifest.mpd"
+  }
+]
