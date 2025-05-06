@@ -17,10 +17,6 @@
   },
   {
     "ch_name": "alquran",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd"
-  },
-  {
-    "ch_name": "alquran2",
     "ch_link": "https://streaming.indihometv.com/atm/DASH/alquran/manifest.mpd"
   },
   {
@@ -41,10 +37,6 @@
   },
   {
     "ch_name": "antv",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd"
-  },
-  {
-    "ch_name": "antv2",
     "ch_link": "https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd"
   },
   {
@@ -62,14 +54,6 @@
   {
     "ch_name": "balitv",
     "ch_link": "https://streaming.indihometv.com/atm/DASH/balitv/manifest.mpd"
-  },
-  {
-    "ch_name": "bein1",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd"
-  },
-  {
-    "ch_name": "bein3",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd"
   },
   {
     "ch_name": "bioskopindonesia",
@@ -200,10 +184,6 @@
     "ch_link": "https://streaming.indihometv.com/atm/DASH/DWTV/manifest.mpd"
   },
   {
-    "ch_name": "eatgo",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/eatgo/manifest.mpd"
-  },
-  {
     "ch_name": "euronews",
     "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/euronews/manifest.mpd"
   },
@@ -222,10 +202,6 @@
   {
     "ch_name": "france24",
     "ch_link": "https://streaming.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd"
-  },
-  {
-    "ch_name": "indikids",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd"
   },
   {
     "ch_name": "galaxypremium",
@@ -264,10 +240,6 @@
     "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/horizonsport/manifest.mpd"
   },
   {
-    "ch_name": "idx",
-    "ch_link": "https://streaming.indihometv.com/atm/DASH/idx/manifest.mpd"
-  },
-  {
     "ch_name": "idtv",
     "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd"
   },
@@ -280,8 +252,8 @@
     "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd"
   },
   {
-    "ch_name": "indonesiana",
-    "ch_link": "https://streaming.indihometv.com/atm/DASH/indonesiana/manifest.mpd"
+    "ch_name": "indikids",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd"
   },
   {
     "ch_name": "indosiar",
@@ -316,20 +288,12 @@
     "ch_link": "https://streaming.indihometv.com/atm/DASH/kplus/manifest.mpd"
   },
   {
-    "ch_name": "kompastv",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/kompastv/manifest.mpd"
-  },
-  {
     "ch_name": "kungfutv",
     "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/kungfutv/manifest.mpd"
   },
   {
     "ch_name": "lifetime",
     "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd"
-  },
-  {
-    "ch_name": "lingua",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/lingua/manifest.mpd"
   },
   {
     "ch_name": "lovenature",
@@ -345,10 +309,6 @@
   },
   {
     "ch_name": "metrotv",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd"
-  },
-  {
-    "ch_name": "metrotv2",
     "ch_link": "https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd"
   },
   {
@@ -381,23 +341,7 @@
   },
   {
     "ch_name": "muitv",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd"
-  },
-  {
-    "ch_name": "muitv2",
     "ch_link": "https://streaming.indihometv.com/atm/DASH/muitv/manifest.mpd"
-  },
-  {
-    "ch_name": "mycinema",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd"
-  },
-  {
-    "ch_name": "mycinemaasia",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/mycinemaasia/manifest.mpd"
-  },
-  {
-    "ch_name": "myfamily",
-    "ch_link": "https://streaming.indihometv.com/atm/DASH/myfamily/manifest.mpd"
   },
   {
     "ch_name": "mykids",
@@ -456,19 +400,7 @@
     "ch_link": "https://streaming.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd"
   },
   {
-    "ch_name": "rodjatv",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/rodjatv/manifest.mpd"
-  },
-  {
-    "ch_name": "rri",
-    "ch_link": "https://streaming.indihometv.com/atm/DASH/RRI_NET_HD/manifest.mpd"
-  },
-  {
     "ch_name": "rtv",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd"
-  },
-  {
-    "ch_name": "rtv2",
     "ch_link": "https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd"
   },
   {
@@ -478,10 +410,6 @@
   {
     "ch_name": "seatoday",
     "ch_link": "https://streaming.indihometv.com/atm/DASH/seatoday/manifest.mpd"
-  },
-  {
-    "ch_name": "seru",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd"
   },
   {
     "ch_name": "shenzen",
@@ -502,10 +430,6 @@
   {
     "ch_name": "tawaftv",
     "ch_link": "https://streaming.indihometv.com/atm/DASH/tawaftv/manifest.mpd"
-  },
-  {
-    "ch_name": "techstorm",
-    "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd"
   },
   {
     "ch_name": "thrill",
