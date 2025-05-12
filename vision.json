@@ -328,10 +328,6 @@
     "ch_link": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd"
   },
   {
-    "ch_name": "MNCSports2Event",
-    "ch_link": "http://terabit.web.id/media.mpd?id=1002&type=dash"
-  },
-  {
     "ch_name": "MNCSports3",
     "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd"
   },
@@ -346,6 +342,34 @@
   {
     "ch_name": "SPOTV2",
     "ch_link": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd"
+  },
+  {
+    "ch_name": "SindoNews1002",
+    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd"
+  },
+  {
+    "ch_name": "Event1008",
+    "ch_link": "https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd"
+  },
+  {
+    "ch_name": "Event1010",
+    "ch_link": "https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd"
+  },
+  {
+    "ch_name": "Event1011",
+    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd"
+  },
+  {
+    "ch_name": "Ent1012",
+    "ch_link": "https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd"
+  },
+  {
+    "ch_name": "Event1013",
+    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
+  },
+  {
+    "ch_name": "MusicTV1014",
+    "ch_link": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd"
   },
   {
     "ch_name": "TawafTV",
