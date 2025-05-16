@@ -445,6 +445,10 @@
   },
   {
     "ch_name": "transtv",
+    "ch_link": "https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd"
+  },
+  {
+    "ch_name": "transtv2",
     "ch_link": "https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd"
   },
   {
