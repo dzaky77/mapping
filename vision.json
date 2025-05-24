@@ -64,26 +64,6 @@
     "ch_link": "https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd"
   },
   {
-    "ch_name": "Bein1",
-    "ch_link": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd"
-  },
-  {
-    "ch_name": "Bein2",
-    "ch_link": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd"
-  },
-  {
-    "ch_name": "Bein3",
-    "ch_link": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd"
-  },
-  {
-    "ch_name": "Bein4",
-    "ch_link": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd"
-  },
-  {
-    "ch_name": "Bein5",
-    "ch_link": "https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd"
-  },
-  {
     "ch_name": "Bloomberg",
     "ch_link": "https://av-ch-cdn.mncnow.id/live/eds/Bloomberg/sa_dash/Bloomberg.mpd"
   },
@@ -313,7 +293,7 @@
   },
   {
     "ch_name": "RCTI",
-    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
+    "ch_link": "https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd"
   },
   {
     "ch_name": "Reformed21",
@@ -342,62 +322,6 @@
   {
     "ch_name": "MNCnews",
     "ch_link": "https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd"
-  },
-  {
-    "ch_name": "SoccerChannel",
-    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd"
-  },
-  {
-    "ch_name": "MNCSports",
-    "ch_link": "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd"
-  },
-  {
-    "ch_name": "MNCSports2",
-    "ch_link": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd"
-  },
-  {
-    "ch_name": "MNCSports3",
-    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd"
-  },
-  {
-    "ch_name": "MNCSports4",
-    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd"
-  },
-  {
-    "ch_name": "SPOTV",
-    "ch_link": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd"
-  },
-  {
-    "ch_name": "SPOTV2",
-    "ch_link": "https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd"
-  },
-  {
-    "ch_name": "SindoNews1002",
-    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd"
-  },
-  {
-    "ch_name": "Event1008",
-    "ch_link": "https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd"
-  },
-  {
-    "ch_name": "Event1010",
-    "ch_link": "https://d2o5iwa2ppb5z7.cloudfront.net/out/v1/dash/index.mpd"
-  },
-  {
-    "ch_name": "Event1011",
-    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd"
-  },
-  {
-    "ch_name": "Ent1012",
-    "ch_link": "https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd"
-  },
-  {
-    "ch_name": "Event1013",
-    "ch_link": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
-  },
-  {
-    "ch_name": "MusicTV1014",
-    "ch_link": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd"
   },
   {
     "ch_name": "TawafTV",
