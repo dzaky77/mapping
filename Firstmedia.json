@@ -108,6 +108,10 @@
     "ch_link": "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd"
   },
   {
+    "ch_name": "Cinemax",
+    "ch_link": "https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd"
+  },
+  {
     "ch_name": "CNA",
     "ch_link": "https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mpd/CNAHD.mpd"
   },
@@ -218,6 +222,22 @@
   {
     "ch_name": "GMSChannel",
     "ch_link": "https://atemecdnbalancer-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd"
+  },
+  {
+    "ch_name": "HBOHD",
+    "ch_link": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd"
+  },
+  {
+    "ch_name": "HBOFamilyHD",
+    "ch_link": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd"
+  },
+  {
+    "ch_name": "HBOHitsHD",
+    "ch_link": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd"
+  },
+  {
+    "ch_name": "HBOSignatureHD",
+    "ch_link": "https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd"
   },
   {
     "ch_name": "HGTV",
